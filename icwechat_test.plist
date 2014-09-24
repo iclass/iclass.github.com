@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.63.11:9004/api/release/downloadIpa</string>
+					<string>http://192.168.63.11:9004/release/downloadIpa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.iclass.wechat.guidao</string>
+				<string>cn.iclass.nbgdjt</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
