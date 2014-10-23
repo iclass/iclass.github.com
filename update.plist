@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>1.0.0</key>
-    <string>测试一下</string>
+    <key>1.0.1</key>
+    <string>1.	优化通知栏消息提醒的功能；2.	增加IOS平台发送图片时的勾选确认功能；3.	增加可以开始语音录制的提示音；4.	修正了退出程序后无法接收新消息推送的bug； 5.	修正了“分配给我的任务”中状态选择的问题，分为“已办”、“代办”；6.	修正了创建工作组添加成员会出现重复的问题；</string>
 </dict>
 </plist>
