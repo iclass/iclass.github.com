@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>1.0.0</key>
-    <string></string>
+    <key>1.0.2</key>
+    <string>1.	增加轨道通在ipad上的logo；2.	解决了通讯录中组织架构的显示问题（管理层在最上面）；3.	增加了任务完成页；4.	增加了发送失败时可重新发送的功能；</string>
 </dict>
 </plist>
