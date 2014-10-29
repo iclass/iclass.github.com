@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.63.11/api/release/downloadIpa</string>
+					<string>http://210.33.23.109/api/release/downloadIpa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>测试版</string>
+				<string>宁大移动学习</string>
 				<key>froce-update</key>
 				<string>NO</string>
 			</dict>
