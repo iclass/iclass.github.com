@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>1.0.2</key>
-    <string>1.	增加轨道通在ipad上的logo；2.	解决了通讯录中组织架构的显示问题（管理层在最上面）；3.	增加了任务完成页；4.	增加了发送失败时可重新发送的功能；</string>
+    <key>1.0.3</key>
+    <string>1.	增加个人资料中手机号、短号、办公电话以及邮箱的信息；2.	在“我的签到”中增加签到层级分类的页面；3.	在消息列表中增加加入工作组的审核提示；4.	IOS签到列表页地址信息截断过早，显示不详细；5.	增加了申请加入工作组的通知消息；6.	增加了申请加入工作组被拒绝的通知消息；</string>
 </dict>
 </plist>
