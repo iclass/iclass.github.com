@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>1.0.6</key>
-    <string>1.	解决了页面切换到“我的签到”，然后ipad按休眠键，再次打开ipad出现闪退的bug;2.	增加了网盘资源分享的功能;3.	增加了清空聊天记录的功能;4.	增加了消息免打扰的功能;</string>
+    <key>1.0.7</key>
+    <string>1.解决了ios8无消息推送的bug;2.解决了iOS收到推送消息后，桌面小图标的数字始终显示为1的bug;3.增加了做任务时允许添加多图的功能(最多5张);4.将签到列表统一放到我的签到中，默认选中自己所在的组织架构;</string>
 </dict>
 </plist>
