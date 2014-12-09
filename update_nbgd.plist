@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>1.0.8</key>
+    <key>1.0.9</key>
     <string>1.解决了消息中“成员列表”无成员的bug；2.增加了只有群主才可以在群资料中添加、删除群成员的功能；3.增加了编辑工作组添加部门时当前层需要有确认的功能；4.解决了编辑工作组删除成员的操作过于复杂的问题；5.编辑工作组时按照交互稿，优化了搜索人员、部门、工作组的功能；
 6.修复了ios8系统以上的设备首次安装的用户接收不到消息推送，在“设置”“通知”里面，找不到这个程序的bug；</string>
 </dict>
