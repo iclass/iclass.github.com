@@ -2,15 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>1.2.6</key>
-	<string>1.	修改了监理日志选择日期显示顺序。
-2.	修改了新建工作组名称在30个字符以内。
-3.	修改了签名更新不及时的Bug。
-4.	修改了分配给我的任务筛选条件。
-5.	新增了保存分享的文件到自己的网盘功能。
-6.	修改了选择会话列表搜索闪退的Bug。
-7.	修改了手机自带表情的处理。
-8.	修改了消息发送失败的Bug。
-9.	修改会议室图片放大功能。</string>
+	<key>1.2.7</key>
+	<string>1.	修改了签名不及时的问题。</string>
 </dict>
 </plist>
