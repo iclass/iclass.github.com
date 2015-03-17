@@ -2,7 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>1.2.7</key>
-	<string>1.	修改了签名不及时的问题。</string>
+	<key>1.2.8</key>
+	<string>1.将任务中，“我关注的任务”修改为“提醒我关注的任务”；
+2.修复了创建任务不能选取多层级文件的bug；
+3.修复了创建请示单选择一个人再选择搜索的人，导致2人都存在的bug；
+4.修复了输入的任务标题按整数行截断的bug；
+5.修复了查看任务、审批单列表排序无规律的bug；</string>
 </dict>
 </plist>
