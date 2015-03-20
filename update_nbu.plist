@@ -2,7 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>0.9.0</key>
-    <string>1.增加了学习空间的模块</string>
+    <key>1.0.2</key>
+    <string>1.新增了教师可以直接发起会话功能
+    2.新增了学习空间的课程日历功能</string>
 </dict>
 </plist>
