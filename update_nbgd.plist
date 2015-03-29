@@ -2,7 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>1.3.7</key>
-	<string>1.增加了特殊用户主岗、副岗的显示；</string>
+	<key>1.5.0</key>
+	<string>1.修改了通讯录部门和职位的排序；
+	2.新增了登陆后修改初始密码功能;</string>
 </dict>
 </plist>
