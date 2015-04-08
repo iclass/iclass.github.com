@@ -2,7 +2,9 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>1.0.6</key>
-    <string>1.修改了可以添加自己为好友的Bug</string>
+    <key>1.0.8</key>
+    <string>1.修改了黑名单和删除好友关系处理
+    2.修改了签到不能定位的Bug
+    3.修改了其他Bug</string>
 </dict>
 </plist>
