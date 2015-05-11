@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>1.5.2</key>
-	1.解决了版本更新之后，旧版本的语音无法播放的问题；
-2.解决了请示我的请假申请，我转交给别人后，没有及时显示我转交审批给别人的问题；
-3.解决了设置里4个logo跟对应文字不配对的问题；
-</dict>
-</plist>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"><plist version="1.0"><dict>	<key>1.6.0</key>	<string>1.更换了新的UI界面，并解决了更换UI产生的视觉bug；2.增加了智能存储柜的功能；3.增加了日程管理的功能；4.增加了会议室后台分开管理的功能；5.增加了会议室签到表可导出打印的功能；6.将登陆页中的关于版本改成使用帮助；7.增加了通讯录中支持长号、短号、办公号、工号的模糊搜索功能；8.增加了部门话题管理的功能；9.增加了后台系统图文消息发送的功能；10.增加了工作组中支持工作组名的搜索功能；11.增加了工作组中群主标识的功能；</string></dict></plist>
