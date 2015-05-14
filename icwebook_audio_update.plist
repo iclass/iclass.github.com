@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>1.0.1</key>
-    <string>1，添加了版本更新推送功能</string>
+    <key>1.0.2</key>
+    <string>1，修改了上传录音后跳转到其他页面的Bug.</string>
 </dict>
 </plist>
