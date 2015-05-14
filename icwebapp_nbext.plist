@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.iclass.ningbo.webooksecretary</string>
+				<string>cn.iclass.ningbo.nbext</string>
 				<key>bundle-version</key>
 				<string>0.9.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>微书小秘书</string>
+				<string>宁波e学堂</string>
 				<key>froce-update</key>
 				<string>NO</string>
 			</dict>
