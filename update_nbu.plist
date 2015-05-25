@@ -2,11 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>1.1.4</key>
-    <string>1.	将首页的“宁大移动学习”改为“宁大微信”；
-2.	将所有人员列表统一只显示人员头像和名称；
-3.	解决了进入部门话题后存在不必要话题分类的bug；
-4.	解决了点击自建群租，右滑出现退出按钮，这时候取消再点任务就闪退的bug；
-5.	解决了处理新成员申请加入群组时无头像的bug；</string>
+    <key>1.1.5</key>
+    <string>1.	解决了学生学院字段显示的是班级的问题；
+2.	增加了通讯录中添加好友申请的提示红点；
+3.	解决了联系人详情页中无性别显示的问题；
+4.	解决了无网络情况下登陆会闪退的问题；</string>
 </dict>
 </plist>
