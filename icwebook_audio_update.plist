@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>1.0.2</key>
-    <string>1，修改了上传录音后跳转到其他页面的Bug.</string>
+    <key>1.0.3</key>
+    <string>1，新增了视频上传功能.</string>
 </dict>
 </plist>
