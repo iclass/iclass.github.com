@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://wechat.iclass.cn/api/release/downloadIpa</string>
+					<string>http://101.71.3.48/api/release/downloadIpa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.iclass.wechat.ningbo</string>
+				<string>cn.iclass.wechat.huzhou.electric</string>
 				<key>bundle-version</key>
-				<string>0.9.1</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>NB Link</string>
+				<string>湖州e课堂</string>
 				<key>froce-update</key>
 				<string>NO</string>
 			</dict>
