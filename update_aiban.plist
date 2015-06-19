@@ -2,9 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>1.0.1</key>
-    <string>1：修改了网页进度条展现形式
-    2：新增了没有消息记录的文案提示
-    3：修改了部分Bug</string>
+    <key>1.0.0</key>
+    <string></string>
 </dict>
 </plist>
