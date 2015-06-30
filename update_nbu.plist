@@ -2,11 +2,9 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>1.1.6</key>
-    <string>1.	解决了无网络情况下登陆，提示用户名、密码错误的问题；
-2.	解决了文字超出提示框显示的问题；
-3.	解决了能删除非好友的问题；
-4.	解决了添加好友后无法删除的问题；
-5.	解决了无好友的情况下，“我的好友”出会有一个“#”的问题；</string>
+    <key>1.1.7</key>
+    <string>1.增加了“学习空间”中课程表的功能；
+2.增加了“学习空间”中课程空间的功能；
+3.增加了“学习空间”中校园微信的功能；</string>
 </dict>
 </plist>
