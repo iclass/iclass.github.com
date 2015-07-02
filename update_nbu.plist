@@ -2,9 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>1.1.7</key>
-    <string>1.增加了“学习空间”中课程表的功能；
-2.增加了“学习空间”中课程空间的功能；
-3.增加了“学习空间”中校园微信的功能；</string>
+    <key>1.1.8</key>
+    <string>1.	将课程表中的“日历”改成“课程表”
+2.	修改了校园微课的的头部名称；</string>
 </dict>
 </plist>
