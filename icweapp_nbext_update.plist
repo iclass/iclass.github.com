@@ -2,7 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>1.0.4</key>
-    <string>1,修改了首页返回问题</string>
+    <key>1.0.5</key>
+    <string>
+    1,修改启动页Logo。
+    2,修改了首页标题栏logo显示。
+    3,新增了下拉刷新显示版本号。
+    </string>
 </dict>
 </plist>
