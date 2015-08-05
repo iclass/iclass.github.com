@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.iclass.wechat.ningbo.xqlm</string>
+				<string>cn.iclass.wechat.ningbo.aiban</string>
 				<key>bundle-version</key>
 				<string>0.9.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>美育家园</string>
+				<string>爱班微信</string>
 				<key>froce-update</key>
 				<string>NO</string>
 			</dict>
