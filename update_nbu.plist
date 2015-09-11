@@ -2,10 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>1.2.4</key>
-    <string>1.优化了选人的功能；
-2.优化了群组的显示；
-3.增加了同学帮帮忙的功能；
-4.解决了解散工作组之后，返回列表工作组不见的bug；</string>
+    <key>1.2.5</key>
+    <string>优化了应用市场</string>
 </dict>
 </plist>
