@@ -5,6 +5,7 @@
 	<key>1.6.8.1</key>
 	<string>1:修改了兼容性问题
 	2:修改了Bug
-	3:性能优化</string>
+	3:性能优化
+	4:修正了ios9通讯录问题</string>
 </dict>
 </plist>
