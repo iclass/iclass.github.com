@@ -2,9 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>1.0.2</key>
-	<string>1.增加了首页功能
-2.增加了密码修改功能
-3.修改了n多bug</string>
+	<key>1.0.4</key>
+	<string>1：全新的语音输入方式
+2：修复@消息重发无效问题
+3：修复了撤回消息的乱序问题
+4：支持发送5张张图片
+5：断网情况下，发送的语言和图片无法预览的问题
+6：可以撤回2分钟内多条消息
+7：性能优化，不卡顿</string>
 </dict>
 </plist>
