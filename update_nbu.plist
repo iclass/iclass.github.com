@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>1.2.5</key>
-    <string>优化了应用市场</string>
+    <key>1.2.7</key>
+    <string>增加调用超星网络课程的功能</string>
 </dict>
 </plist>
