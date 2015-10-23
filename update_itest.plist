@@ -2,10 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>1.6.8</key>
-	<string>1:修改了兼容性问题
-	2:修改了Bug
-	3:性能优化
-	4:修正了ios9通讯录问题</string>
+	<key>1.6.8.FORCE</key>
+	<string>重要版本更新通知：本次版本升级新增个性换肤、支持网页链接直接打开及电话号码识别等功能，优化消息发送（部分消息丢失）等功能。为保证您更好地使用宁波轨道交通企业微信（NBLINK），请务必更新！如有问题，请联系办公室(企划办）信息化建设科，王英，83882292，665191。</string>
 </dict>
 </plist>
