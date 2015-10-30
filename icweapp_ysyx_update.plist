@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>1.0.6</key>
+    <key>1.0.7</key>
     <string>
 	1.增加了断网提示页面
 	2.增加了视频全屏播放的功能
