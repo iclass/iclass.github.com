@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://115.238.128.214/api/release/downloadIpa</string>
+					<string>http://wx.iclass.cn/api/release/downloadIpa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.iclass.wechat.ningbo</string>
+				<string>cn.iclass.wechat.ningbo.aiban</string>
 				<key>bundle-version</key>
 				<string>0.9.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>测试版</string>
+				<string>爱班微信</string>
 				<key>froce-update</key>
 				<string>NO</string>
 			</dict>
