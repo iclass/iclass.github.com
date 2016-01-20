@@ -2,9 +2,9 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>1.0.5</key>
-    <string>1:更改应用名称"配音小秘书"
-2:修复了视频上传功能
-3:修复了其他Bug</string>
+    <key>1.0.7</key>
+    <string>1：添加了更多的平台支持
+    		2：修改了稳定性
+    		</string>
 </dict>
 </plist>
