@@ -2,8 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>1.0.0</key>
-    <string>新版本发布
+    <key>1.0.1</key>
+    <string>增加推送功能、新增更新机制、修复部分isbn无法识别问题
     </string>
 </dict>
 </plist>
