@@ -3,7 +3,6 @@
 <plist version="1.0">
 <dict>
     <key>1.0.1</key>
-    <string>增加推送功能、新增更新机制、修复部分isbn无法识别问题
-    </string>
+    <string>增加推送功能、新增更新机制、修复部分isbn无法识别问题</string>
 </dict>
 </plist>
