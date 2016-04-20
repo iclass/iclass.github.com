@@ -2,7 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>2.0.0</key>
-	<string>全新2.0版本，优化体验，修正bug，呈现更多丰富多彩的应用。</string>
+	<key>2.0.1</key>
+	<string>修复了部分bug，主要修复了搜索人员后无法直接进入对话的问题。
+</string>
 </dict>
 </plist>
