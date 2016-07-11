@@ -2,7 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>1.0.5</key>
-	<string>修复了灰常多的bug~~</string>
+	<key>2.0.2FORCE</key>
+	<string>优化了应用市场的系统通知功能。
+</string>
 </dict>
 </plist>
